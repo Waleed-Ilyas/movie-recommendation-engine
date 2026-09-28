@@ -1,0 +1,6 @@
+# Runtime dependencies for the deployed app (item factors are committed in artifacts/; MovieLens is downloaded on first run).
+numpy>=1.26
+scipy>=1.11
+pandas>=2.2
+plotly>=5.24
+streamlit>=1.40
