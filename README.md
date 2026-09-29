@@ -2,7 +2,7 @@
 
 Recommends 10 movies per user and explains every one. Compares a **popularity** baseline, **item-based collaborative filtering**, **implicit-feedback matrix factorisation (ALS, written in numpy)**, a **content-based** model and a **hybrid**, judges them on each user's *future* ratings with ranking metrics (NDCG, recall, coverage, novelty), and tests the case recommenders usually fail: **new users and new movies**. A Streamlit app lets you browse real users, build your own taste from a few picks, and see why each title was recommended.
 
-**Live demo:** _added after deployment_ · **Stack:** numpy, scipy, scikit-learn, MLflow, Streamlit + Plotly
+**Live demo:** https://movie-recommendation-engine-8z7hsjydsp4cgjhs38wkvm.streamlit.app/ · **Stack:** numpy, scipy, scikit-learn, MLflow, Streamlit + Plotly
 
 ![Real-user recommendations with explanations](reports/figures/app_user.png)
 
